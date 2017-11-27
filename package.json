@@ -1,0 +1,14 @@
+{
+  "name": "dumproutes",
+  "version": "1.0.0",
+  "description": "Dumps the URLs supported by a Restify server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Andrade / github.com/nicoandra",
+  "license": "ISC",
+  "dependencies": {
+    "cli-table": "^0.3.1"
+  }
+}
